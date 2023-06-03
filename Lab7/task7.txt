@@ -1,0 +1,30 @@
+Lab 7
+
+1. According to the task option (table 1), collect simulations in a package
+Proteus circuit based on MK ATmega2560 and write a program
+in the Assembler language in Atmel Studio to implement the specified task.
+2. Fill the program in Arduino-Kit.
+3. Present the results to the teacher
+
+1. Two sets of LEDs according to pressing the corresponding button
+the specified algorithms work and go out. With
+algorithms can work independently of each other.
+Pressing the corresponding button restarts the specified algorithm,
+which now works, first.
+2. Time intervals are measured using timers, at
+work in the main program is performed in parallel with this.
+3. When the buttons are pressed, a buzzer signal sounds.
+4. The program must be written in the Assembler language.
+
+Variant:
+Buttons: PL4, PL6
+LEDs: portA, portF
+Delay: 0,65s
+Timer: 3
+Algorithms: 6, 8
+
+Algorithm 6:
+After pushing the button LEDs start blinking like this: P7 -> P5 -> P3 -> P1 -> P6 -> P4 -> P2 -> P0
+
+Algorithm 8:
+After pushing the button LEDs start blinking like this: P7 -> P0 -> P6 -> P1 -> P5 -> P2 -> P4 -> P3

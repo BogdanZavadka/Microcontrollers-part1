@@ -1,0 +1,14 @@
+Lab 1
+
+1. According to the task variant, assemble a circuit based on the ATmega2560 IC in the Proteus simulation package and write a C++ program in the Arduino IDE to implement the specified algorithm.
+2. Fill the program in Arduino-Kit.
+3. Present the results to the teacher.
+
+Variant:
+Button pin: PL6;
+LEDs: port-A
+Delay: 0,65s
+Algorithm: 6
+
+Algorithm 6:
+After pushing the button LEDs start blinking like this: P7 -> P5 -> P3 -> P1 -> P6 -> P4 -> P2 -> P0

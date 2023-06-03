@@ -1,0 +1,19 @@
+Lab 6
+
+1. According to the task option (table 1), collect simulations in a package
+Proteus scheme and write programs to implement the specified
+task.
+2. Develop a client program for managing the MK system.
+3. Test the operation of the client program with the scheme in Proteus.
+4. Present the results to the teacher.
+
+1. Based on the RS485 network developed in the 8th laboratory work (one ATmega2560 and two ATmega328P) + CRC,
+design a system for collecting data from end sensors,
+that are connected to MK-Slave.
+2. Develop a client program (C++, C#, JavaScript) and
+write the program code that will implement it
+communication between the computer and MK "master" and will display
+received data from sensors.
+
+Variant:
+Device: PCF8593

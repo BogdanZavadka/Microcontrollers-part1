@@ -1,0 +1,9 @@
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

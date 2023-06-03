@@ -1,0 +1,53 @@
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\Lab #8 RS-485 - v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\MyFiles\Lapitech\term-4\microcontrollers-p1\lab5\algorythmic\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\laba5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Мікроконтролери\Лаба 6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

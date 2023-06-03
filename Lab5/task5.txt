@@ -1,0 +1,42 @@
+Lab 5
+
+1. According to the task option (table 1), collect simulations in a package
+Proteus scheme and write programs to implement the specified
+task.
+2. Develop a client program for managing the MK system.
+3. Test the operation of the client program with the scheme in Proteus.
+4. Fill the programs in Arduino-Kits.
+5. Present the results to the teacher.
+
+1. Design a schematic diagram of the data exchange system
+between the microcontroller network (one ATmega2560 and two
+ATmega328P) based on RS-485 interface and personal
+computer;
+2. Develop an exchange protocol between microcontrollers
+"master" and "slave" networks based on RS-485, as well as between
+Windows client program and MC "master" (RS-232);
+CRC checksums must be present in the protocol
+(Table 2).
+3. For MK "master" and "slave" write program code that
+will implement the task:
+ 1st Slave sends the student's "Surname and Patronymic Name";
+ 2nd Slave sends "Date of birth" of the student;
+Duplicate these messages 5 times with the information entered in them
+distortions according to the variant of the task.
+4. Develop a client program (C++, C#, JavaScript) and
+write the program code that will implement it
+communication between the computer and MK "master" and will display
+and will analyze the received data from MK "slave" for availability
+transmission errors.
+
+Variant:
+RS-485: speed 38400
+RS-232: speed 38400
+Slaves' addresses: 23, 54
+CRC: CRC8/DARC(table) for every 1 bite of data
+List of distortions:
+1) without distortions
+2) 0th digit of the oldest data byte of Slave1
+3) 3rd digit of the youngest data byte of Slave2
+4) 3rd and 7th digits of the 2nd byte of Slave2 data
+5) 0, 2, 5 digits of the 4th byte of Slave1 data

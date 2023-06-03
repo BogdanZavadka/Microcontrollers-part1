@@ -1,0 +1,51 @@
+Lab 3
+
+1. According to the task variant, assemble a circuit based on the ATmega2560 IC in the Proteus simulation package and write a C++ program in the Arduino IDE to implement the specified task.
+2. Develop a client program for managing MK.
+3. Test the operation of the client program with the scheme in Proteus.
+4. Fill the program in Arduino-Kit.
+5. Present the results to the teacher.
+
+1. Odd numbers of options use 8-bit
+LCD interface for data exchange, even numbers of variants
+- 4-digit.
+2. The task specifies the timer by which it is necessary
+implement the counting of time intervals for the specified
+device.
+3. The duration of the sound signals is chosen by the student
+independently, observing the specified limits.
+4. Pressing each button is accompanied by a short
+single signal, successful input confirmation
+data using the # key is followed by a short
+double signal, entering incorrect data for
+using the # key and canceling the entire operation using
+key * is accompanied by a long signal.
+
+Variant:
+Timer: 3;
+Keypad: port-K
+Data port LCD: port-F
+Algorithm: 2
+
+Algorithm 2:
+Stopwatch.
+Displays hours, minutes, seconds. Contains memory for 60
+intermediate values of the calculated time. The buzzer sounded every minute
+emits a short signal lasting 0.2-1 sec.
+Button D (→) – starts/stops the time countdown;
+Button C (←) – resets the time count to zero and stops
+readout.
+* button – resets the memory of saved values.
+The # button – when counting down the time, saves the next current time in the memory
+value.
+Button A (↑) – displays the memory log of saved data on the LCD
+counting time Pressing again returns to the previous mode.
+Button B (↓) – in memory viewing mode alternately
+scrolls on the LCD the values of the saved timers with theirs
+serial no.
+If you press one or two in log view mode
+digits and confirm with the # key, then the corresponding saved entry will be displayed. When requesting an incorrect number
+saved record - a long beep, with a successful selection -
+2 short beeps.
+* If the memory contains saved records, then the display shows y
+my corner

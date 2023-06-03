@@ -1,0 +1,55 @@
+Lab 4
+
+1. According to the variant (serial number in the teacher's journal) of the task
+(table 1) to assemble a scheme based on MK in the Proteus simulation package
+ATmega2560 and write a Ci program for implementation
+of the specified algorithm (table 2).
+2. Present the simulation results obtained on the computer
+teacher
+3. Check the correctness of the developed algorithm
+on the layout. 
+4. Prepare a report based on the results of the work performed and
+hand it in.
+
+1. The task specifies the timer by which it is required
+implement time interval counting for the specified device.
+Dynamic indication is allowed to be implemented using another
+timer
+2. When using timer 2 in asynchronous mode, it is assumed that
+that it is clocked by a clock quartz of 32768 Hz.
+3. The duration of the sound signals is chosen by the student independently,
+observing the specified limits.
+4. Paired options choose the connection of seven-segmenters with
+with a common anode, and odd variants - with a common cathode.
+
+Variant:
+Timer: 2(async.)
+Frequency: 10 MHz
+Buttons: PA(1-4)
+Buzzer: PA6
+Control port: PARTB
+Control outputs voltages: PD(1-6)
+Algorithm: 2
+
+Algorithm 2:
+Stopwatch.
+Displays hours, minutes, seconds. Contains memory for 60
+intermediate values of the calculated time. The buzzer sounded every minute
+emits a short signal lasting 0.2-1 sec.
+Button D (→) – starts/stops the time countdown;
+Button C (←) – resets the time count to zero and stops
+readout.
+* button – resets the memory of saved values.
+The # button – when counting down the time, saves the next current time in the memory
+value.
+Button A (↑) – displays the memory log of saved data on the LCD
+counting time Pressing again returns to the previous mode.
+Button B (↓) – in memory viewing mode alternately
+scrolls on the LCD the values of the saved timers with theirs
+serial no.
+If you press one or two in log view mode
+digits and confirm with the # key, then the corresponding saved entry will be displayed. When requesting an incorrect number
+saved record - a long beep, with a successful selection -
+2 short beeps.
+* If the memory contains saved records, then the display shows y
+my corner
